@@ -1,0 +1,35 @@
+﻿Arquivo: c:\Users\LUCAS FABRE ALVES\Desktop\Conjunto de dados de produção de hidrogênio renovável\hourly_energy_demand_generation_and_weather\weather_features.csv
+Linhas: 178396
+Colunas: city_name, clouds_all, dt_iso, humidity, pressure, rain_1h, rain_3h, snow_3h, temp, temp_max, temp_min, weather_description, weather_icon, weather_id, weather_main, wind_deg, wind_speed
+Valores ausentes por coluna:
+city_name: 0
+clouds_all: 0
+dt_iso: 0
+humidity: 0
+pressure: 0
+rain_1h: 0
+rain_3h: 0
+snow_3h: 0
+temp: 0
+temp_max: 0
+temp_min: 0
+weather_description: 0
+weather_icon: 0
+weather_id: 0
+weather_main: 0
+wind_deg: 0
+wind_speed: 0
+Estatísticas numéricas (min, max, média, std, n):
+clouds_all: min=0,000, max=100,000, média=25,073, std=30,774, n=178396
+humidity: min=0,000, max=100,000, média=68,423, std=21,903, n=178396
+pressure: min=0,000, max=1.008.371,000, média=1.069,261, std=5.969,615, n=178396
+rain_1h: min=0,000, max=12,000, média=0,075, std=0,399, n=178396
+rain_3h: min=0,000, max=2,315, média=0,000, std=0,007, n=178396
+snow_3h: min=0,000, max=21,500, média=0,005, std=0,223, n=178396
+temp: min=262,240, max=315,600, média=289,619, std=8,026, n=178396
+temp_max: min=262,240, max=321,150, média=291,091, std=8,612, n=178396
+temp_min: min=262,240, max=315,150, média=288,330, std=7,955, n=178396
+weather_icon: min=1,000, max=13,000, média=4,100, std=3,588, n=19513
+weather_id: min=200,000, max=804,000, média=759,832, std=108,733, n=178396
+wind_deg: min=0,000, max=360,000, média=166,591, std=116,612, n=178396
+wind_speed: min=0,000, max=133,000, média=2,471, std=2,096, n=178396

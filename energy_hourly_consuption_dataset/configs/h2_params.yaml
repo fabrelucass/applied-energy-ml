@@ -1,0 +1,32 @@
+datasets:
+  production:
+    format: csv/parquet
+    granularity: hourly/daily/monthly
+    fields: [datetime, capacity_mw, production_kg, technology]
+  demand:
+    format: csv/parquet
+    fields: [datetime, demand_kg, sector]
+  meteorology:
+    format: api/json
+    fields: [datetime, temp_c, wind_ms, irradiance_wm2]
+  policy:
+    format: json/pdf
+    fields: [region, policy_type, effective_date]
+  transport:
+    format: geojson/shp
+    fields: [geometry, capacity, status]
+pipeline:
+  outputs:
+    reports: reports/
+    figures: reports/figures
+    processed: data/processed
+  features:
+    lags: [1h, 24h, 7d]
+    moving_averages: [3h, 24h, 7d]
+    calendar: [hour, weekday, month, season]
+operational:
+  capacity_mw: 10
+  kwh_per_kg: 52
+  offpeak_percentile: 25
+  emission_factor_kg_per_kwh: 0.0004
+  pv_coeff_mw_per_wm2: 0.0008

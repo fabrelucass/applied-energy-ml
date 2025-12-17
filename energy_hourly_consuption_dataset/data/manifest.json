@@ -1,0 +1,75 @@
+{
+  "root": "C:\\Users\\LUCAS FABRE ALVES\\Desktop\\archive",
+  "files": [
+    {
+      "file": "data\\raw\\AEP_hourly.csv",
+      "size": 3395509,
+      "md5": "821dc3f29e9b22c5bdbaa519fdab7bfe"
+    },
+    {
+      "file": "data\\raw\\COMED_hourly.csv",
+      "size": 1842915,
+      "md5": "d051127a5fbb535bdd86b33bd201152d"
+    },
+    {
+      "file": "data\\raw\\DAYTON_hourly.csv",
+      "size": 3274443,
+      "md5": "375af49f9f5a51f137bd69bdba964f5e"
+    },
+    {
+      "file": "data\\raw\\DEOK_hourly.csv",
+      "size": 1558965,
+      "md5": "1791293c24ed9fa84728dc78ef9fa20c"
+    },
+    {
+      "file": "data\\raw\\DOM_hourly.csv",
+      "size": 3206580,
+      "md5": "e3e7dd288efa601722ee6211d4a083c9"
+    },
+    {
+      "file": "data\\raw\\DUQ_hourly.csv",
+      "size": 3214852,
+      "md5": "466eb9de00a29c768a90d205efb04967"
+    },
+    {
+      "file": "data\\raw\\EKPC_hourly.csv",
+      "size": 1220853,
+      "md5": "cb2c3d093417bf280663d1f025ffb0ce"
+    },
+    {
+      "file": "data\\raw\\FE_hourly.csv",
+      "size": 1701528,
+      "md5": "0d05b5cd071ec10ee26f12ab81acfa82"
+    },
+    {
+      "file": "data\\raw\\mvp_daily_load_factor_AEP.csv",
+      "size": 276106,
+      "md5": "a07dc3925203f475245d48a2e22fc821"
+    },
+    {
+      "file": "data\\raw\\NI_hourly.csv",
+      "size": 1621599,
+      "md5": "2be6b20177cc740816a5f33501f596d3"
+    },
+    {
+      "file": "data\\raw\\PJME_hourly.csv",
+      "size": 4070265,
+      "md5": "5908f274ab73d5eaeb88654a8d238df3"
+    },
+    {
+      "file": "data\\raw\\PJMW_hourly.csv",
+      "size": 3866578,
+      "md5": "a76d0def66ab427e5757d67041f27c1d"
+    },
+    {
+      "file": "data\\raw\\pjm_hourly_est.csv",
+      "size": 12705938,
+      "md5": "f5b7be0e479c14e34f5455af3e2c0f4f"
+    },
+    {
+      "file": "data\\raw\\PJM_Load_hourly.csv",
+      "size": 921109,
+      "md5": "07b8bdebaa4479c1027f9847d251de3e"
+    }
+  ]
+}

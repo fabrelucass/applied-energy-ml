@@ -1,0 +1,38 @@
+data_path: "hybrid_energy_storage_dataset/hybrid_energy_storage.csv"
+reports_dir: "mvp_h2/reports"
+figures_dir: "mvp_h2/reports/figures"
+artifacts_dir: "mvp_h2/artifacts"
+target_column: "Optimization_Level"
+timestamp_column: "Timestamp"
+numeric_columns:
+  - "Solar_Power_kW"
+  - "Wind_Power_kW"
+  - "Grid_Power_kW"
+  - "Battery_SoC_%"
+  - "SC_Charge_kW"
+  - "Hydrogen_Production_kg/h"
+  - "Load_Demand_kW"
+  - "Power_Supplied_kW"
+  - "Power_Loss_kW"
+eda:
+  correlation: true
+  histograms: true
+  boxplots: true
+cleaning:
+  impute_strategy: "median"
+  outlier_method: "iqr_cap"
+features:
+  use_scaler: true
+  use_pca: false
+  pca_components: 6
+model:
+  type: "random_forest"
+  test_size: 0.2
+  random_state: 42
+  params:
+    n_estimators: 200
+    max_depth: null
+    n_jobs: -1
+api:
+  host: "0.0.0.0"
+  port: 8000

@@ -1,0 +1,53 @@
+﻿Arquivo: c:\Users\LUCAS FABRE ALVES\Desktop\Conjunto de dados de produção de hidrogênio renovável\renewable_hydrogen_dataset\renewable_hydrogen_dataset.csv
+Linhas: 2535
+Colunas: age, bmi, cumulative_days_injured, dob, fifa_rating, height_cm, nationality, pace, physic, position, position_numeric, p_id2, season_days_injured, season_days_injured_prev_season, season_games_played, season_matches_in_squad, season_minutes_played, significant_injury_prev_season, start_year, target, total_days_injured, total_games_played, total_minutes_played, weight_kg, work_rate, work_rate_numeric
+Valores ausentes por coluna:
+age: 0
+bmi: 0
+cumulative_days_injured: 0
+dob: 0
+fifa_rating: 0
+height_cm: 0
+nationality: 0
+pace: 0
+physic: 0
+position: 0
+position_numeric: 0
+p_id2: 0
+season_days_injured: 0
+season_days_injured_prev_season: 0
+season_games_played: 0
+season_matches_in_squad: 0
+season_minutes_played: 0
+significant_injury_prev_season: 0
+start_year: 0
+target: 0
+total_days_injured: 0
+total_games_played: 0
+total_minutes_played: 0
+weight_kg: 0
+work_rate: 0
+work_rate_numeric: 0
+Estatísticas numéricas (min, max, média, std, n):
+age: min=18,000, max=39,000, média=28,555, std=6,383, n=2535
+bmi: min=18,501, max=29,996, média=24,277, std=3,353, n=2535
+cumulative_days_injured: min=0,000, max=999,000, média=496,383, std=285,314, n=2535
+fifa_rating: min=50,000, max=98,000, média=74,387, std=14,078, n=2535
+height_cm: min=150,000, max=199,000, média=174,122, std=14,358, n=2535
+pace: min=30,000, max=98,000, média=64,911, std=19,908, n=2535
+physic: min=30,000, max=98,000, média=63,335, std=19,912, n=2535
+position_numeric: min=1,000, max=4,000, média=2,485, std=1,121, n=2535
+p_id2: min=1,000, max=2.535,000, média=1.268,000, std=731,791, n=2535
+season_days_injured: min=0,000, max=99,000, média=49,181, std=28,953, n=2535
+season_days_injured_prev_season: min=0,000, max=99,000, média=48,484, std=28,304, n=2535
+season_games_played: min=0,000, max=37,000, média=18,423, std=10,875, n=2535
+season_matches_in_squad: min=0,000, max=49,000, média=24,478, std=14,371, n=2535
+season_minutes_played: min=1,000, max=2.999,000, média=1.505,323, std=869,248, n=2535
+significant_injury_prev_season: min=0,000, max=1,000, média=0,500, std=0,500, n=2535
+start_year: min=2.000,000, max=2.024,000, média=2.012,173, std=7,177, n=2535
+target: min=0,000, max=1,000, média=0,498, std=0,500, n=2535
+total_days_injured: min=0,000, max=499,000, média=251,058, std=144,802, n=2535
+total_games_played: min=0,000, max=499,000, média=253,692, std=145,190, n=2535
+total_minutes_played: min=17,000, max=49.999,000, média=24.393,633, std=14.367,105, n=2535
+weight_kg: min=50,000, max=99,000, média=74,265, std=14,518, n=2535
+work_rate_numeric: min=1,000, max=3,000, média=2,008, std=0,819, n=2535

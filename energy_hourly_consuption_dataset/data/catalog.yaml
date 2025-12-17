@@ -1,0 +1,73 @@
+files:
+  - file: data/raw/AEP_hourly.csv
+    zone: AEP
+    unit: MW
+    frequency: hourly
+    columns: [Datetime, AEP_MW]
+    source: Kaggle/PJM
+  - file: data/raw/COMED_hourly.csv
+    zone: COMED
+    unit: MW
+    frequency: hourly
+    columns: [Datetime, COMED_MW]
+    source: Kaggle/PJM
+  - file: data/raw/DAYTON_hourly.csv
+    zone: DAYTON
+    unit: MW
+    frequency: hourly
+    columns: [Datetime, DAYTON_MW]
+    source: Kaggle/PJM
+  - file: data/raw/DEOK_hourly.csv
+    zone: DEOK
+    unit: MW
+    frequency: hourly
+    columns: [Datetime, DEOK_MW]
+    source: Kaggle/PJM
+  - file: data/raw/DOM_hourly.csv
+    zone: DOM
+    unit: MW
+    frequency: hourly
+    columns: [Datetime, DOM_MW]
+    source: Kaggle/PJM
+  - file: data/raw/DUQ_hourly.csv
+    zone: DUQ
+    unit: MW
+    frequency: hourly
+    columns: [Datetime, DUQ_MW]
+    source: Kaggle/PJM
+  - file: data/raw/EKPC_hourly.csv
+    zone: EKPC
+    unit: MW
+    frequency: hourly
+    columns: [Datetime, EKPC_MW]
+    source: Kaggle/PJM
+  - file: data/raw/FE_hourly.csv
+    zone: FE
+    unit: MW
+    frequency: hourly
+    columns: [Datetime, FE_MW]
+    source: Kaggle/PJM
+  - file: data/raw/NI_hourly.csv
+    zone: NI
+    unit: MW
+    frequency: hourly
+    columns: [Datetime, NI_MW]
+    source: Kaggle/PJM
+  - file: data/raw/PJME_hourly.csv
+    zone: PJME
+    unit: MW
+    frequency: hourly
+    columns: [Datetime, PJME_MW]
+    source: Kaggle/PJM
+  - file: data/raw/PJMW_hourly.csv
+    zone: PJMW
+    unit: MW
+    frequency: hourly
+    columns: [Datetime, PJMW_MW]
+    source: Kaggle/PJM
+  - file: data/raw/PJM_Load_hourly.csv
+    zone: PJM_Load
+    unit: MW
+    frequency: hourly
+    columns: [Datetime, PJM_Load_MW]
+    source: Kaggle/PJM

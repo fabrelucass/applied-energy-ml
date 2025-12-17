@@ -1,0 +1,30 @@
+﻿Arquivo: c:\Users\LUCAS FABRE ALVES\Desktop\Conjunto de dados de produção de hidrogênio renovável\renewable_hydrogen_dataset\renewable_hydrogen_dataset_2535.csv
+Linhas: 2535
+Colunas: City, Desalination_Power_kW, Electrolyzer_Efficiency_%, Feasibility_Score, Hydrogen_Production_kg/day, Latitude, Longitude, PV_Power_kW, Solar_Irradiance_kWh/m²/day, System_Efficiency_%, Temperature_C, Wind_Power_kW, Wind_Speed_m/s
+Valores ausentes por coluna:
+City: 0
+Desalination_Power_kW: 0
+Electrolyzer_Efficiency_%: 0
+Feasibility_Score: 0
+Hydrogen_Production_kg/day: 0
+Latitude: 0
+Longitude: 0
+PV_Power_kW: 0
+Solar_Irradiance_kWh/m²/day: 0
+System_Efficiency_%: 0
+Temperature_C: 0
+Wind_Power_kW: 0
+Wind_Speed_m/s: 0
+Estatísticas numéricas (min, max, média, std, n):
+Desalination_Power_kW: min=11,005, max=14,998, média=12,965, std=1,149, n=2535
+Electrolyzer_Efficiency_%: min=73,000, max=76,998, média=74,992, std=1,167, n=2535
+Feasibility_Score: min=0,878, max=1,000, média=0,940, std=0,026, n=2535
+Hydrogen_Production_kg/day: min=45,000, max=59,000, média=52,057, std=4,329, n=2535
+Latitude: min=23,000, max=27,999, média=25,479, std=1,434, n=2535
+Longitude: min=-17,000, max=-12,003, média=-14,499, std=1,440, n=2535
+PV_Power_kW: min=240,000, max=279,000, média=259,572, std=11,409, n=2535
+Solar_Irradiance_kWh/m²/day: min=5,500, max=6,500, média=5,996, std=0,286, n=2535
+System_Efficiency_%: min=75,001, max=81,999, média=78,561, std=2,000, n=2535
+Temperature_C: min=19,001, max=23,000, média=21,026, std=1,158, n=2535
+Wind_Power_kW: min=175,000, max=199,000, média=187,214, std=7,357, n=2535
+Wind_Speed_m/s: min=5,500, max=6,500, média=6,009, std=0,288, n=2535

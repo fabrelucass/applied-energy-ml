@@ -1,0 +1,30 @@
+﻿Columns: Battery_SoC_%, Grid_Power_kW, Hydrogen_Production_kg/h, Load_Demand_kW, Optimization_Level, Power_Loss_kW, Power_Supplied_kW, SC_Charge_kW, Solar_Power_kW, Timestamp, Wind_Power_kW
+Rows: 1000
+Timestamp range: 01/04/2024 00:00:00  12/05/2024 15:00:00
+Missing values por coluna:
+Battery_SoC_%: 0
+Grid_Power_kW: 0
+Hydrogen_Production_kg/h: 0
+Load_Demand_kW: 0
+Optimization_Level: 0
+Power_Loss_kW: 0
+Power_Supplied_kW: 0
+SC_Charge_kW: 0
+Solar_Power_kW: 0
+Timestamp: 0
+Wind_Power_kW: 0
+Estatísticas (min, max, média, desvio-padrão):
+Solar_Power_kW: min=0,232, max=49,986, média=24,513, std=14,600, n=1000
+Wind_Power_kW: min=0,129, max=39,977, média=20,281, std=11,682, n=1000
+Grid_Power_kW: min=5,000, max=19,967, média=12,536, std=4,358, n=1000
+Battery_SoC_%: min=20,052, max=99,965, média=59,230, std=22,908, n=1000
+SC_Charge_kW: min=0,000, max=9,977, média=4,941, std=2,867, n=1000
+Hydrogen_Production_kg/h: min=0,031, max=4,997, média=2,492, std=1,445, n=1000
+Load_Demand_kW: min=30,071, max=79,973, média=54,665, std=14,479, n=1000
+Power_Supplied_kW: min=26,384, max=79,127, média=52,254, std=14,495, n=1000
+Power_Loss_kW: min=0,001, max=4,995, média=2,412, std=1,424, n=1000
+Distribuição Optimization_Level:
+High Efficiency: 547
+Moderate Efficiency: 440
+Low Efficiency: 13
+Checagem Power_Supplied_kW  Load_Demand_kW + Power_Loss_kW  min=-9,989, max=-0,002, média=-4,824

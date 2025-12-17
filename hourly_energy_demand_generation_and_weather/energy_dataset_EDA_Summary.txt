@@ -1,0 +1,60 @@
+﻿Arquivo: c:\Users\LUCAS FABRE ALVES\Desktop\Conjunto de dados de produção de hidrogênio renovável\hourly_energy_demand_generation_and_weather\energy_dataset.csv
+Linhas: 35064
+Colunas: forecast solar day ahead, forecast wind offshore eday ahead, forecast wind onshore day ahead, generation biomass, generation fossil brown coal/lignite, generation fossil coal-derived gas, generation fossil gas, generation fossil hard coal, generation fossil oil, generation fossil oil shale, generation fossil peat, generation geothermal, generation hydro pumped storage aggregated, generation hydro pumped storage consumption, generation hydro run-of-river and poundage, generation hydro water reservoir, generation marine, generation nuclear, generation other, generation other renewable, generation solar, generation waste, generation wind offshore, generation wind onshore, price actual, price day ahead, time, total load actual, total load forecast
+Valores ausentes por coluna:
+forecast solar day ahead: 0
+forecast wind offshore eday ahead: 35064
+forecast wind onshore day ahead: 0
+generation biomass: 19
+generation fossil brown coal/lignite: 18
+generation fossil coal-derived gas: 18
+generation fossil gas: 18
+generation fossil hard coal: 18
+generation fossil oil: 19
+generation fossil oil shale: 18
+generation fossil peat: 18
+generation geothermal: 18
+generation hydro pumped storage aggregated: 35064
+generation hydro pumped storage consumption: 19
+generation hydro run-of-river and poundage: 19
+generation hydro water reservoir: 18
+generation marine: 19
+generation nuclear: 17
+generation other: 18
+generation other renewable: 18
+generation solar: 18
+generation waste: 19
+generation wind offshore: 18
+generation wind onshore: 18
+price actual: 0
+price day ahead: 0
+time: 0
+total load actual: 36
+total load forecast: 0
+Estatísticas numéricas (min, max, média, std, n):
+forecast solar day ahead: min=0,000, max=5.836,000, média=1.439,067, std=1.677,679, n=35064
+forecast wind onshore day ahead: min=237,000, max=17.430,000, média=5.471,217, std=3.176,268, n=35064
+generation biomass: min=0,000, max=592,000, média=383,514, std=85,353, n=35045
+generation fossil brown coal/lignite: min=0,000, max=999,000, média=448,059, std=354,564, n=35046
+generation fossil coal-derived gas: min=0,000, max=0,000, média=0,000, std=0,000, n=35046
+generation fossil gas: min=0,000, max=20.034,000, média=5.622,737, std=2.201,799, n=35046
+generation fossil hard coal: min=0,000, max=8.359,000, média=4.256,066, std=1.961,573, n=35046
+generation fossil oil: min=0,000, max=449,000, média=298,320, std=52,520, n=35045
+generation fossil oil shale: min=0,000, max=0,000, média=0,000, std=0,000, n=35046
+generation fossil peat: min=0,000, max=0,000, média=0,000, std=0,000, n=35046
+generation geothermal: min=0,000, max=0,000, média=0,000, std=0,000, n=35046
+generation hydro pumped storage consumption: min=0,000, max=4.523,000, média=475,577, std=792,395, n=35045
+generation hydro run-of-river and poundage: min=0,000, max=2.000,000, média=972,116, std=400,772, n=35045
+generation hydro water reservoir: min=0,000, max=9.728,000, média=2.605,115, std=1.835,174, n=35046
+generation marine: min=0,000, max=0,000, média=0,000, std=0,000, n=35045
+generation nuclear: min=0,000, max=7.117,000, média=6.263,907, std=839,656, n=35047
+generation other: min=0,000, max=106,000, média=60,229, std=20,238, n=35046
+generation other renewable: min=0,000, max=119,000, média=85,640, std=14,077, n=35046
+generation solar: min=0,000, max=5.792,000, média=1.432,666, std=1.680,096, n=35046
+generation waste: min=0,000, max=357,000, média=269,452, std=50,195, n=35045
+generation wind offshore: min=0,000, max=0,000, média=0,000, std=0,000, n=35046
+generation wind onshore: min=0,000, max=17.436,000, média=5.464,480, std=3.213,646, n=35046
+price actual: min=9,330, max=116,800, média=57,884, std=14,204, n=35064
+price day ahead: min=2,060, max=101,990, média=49,874, std=14,619, n=35064
+total load actual: min=18.041,000, max=41.015,000, média=28.696,940, std=4.574,923, n=35028
+total load forecast: min=18.105,000, max=41.390,000, média=28.712,130, std=4.594,035, n=35064
